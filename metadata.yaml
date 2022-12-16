@@ -15,5 +15,5 @@
 homepage: "https://github.com/leoschuler/gtm-whatsapp-link"
 documentation: "https://github.com/leoschuler/gtm-whatsapp-link"
 versions:
-  - sha: 
+  - sha: 55b6fd675c4f35b19d972a3cb8ff9f10729f5817
     changeNotes: Initial Version
